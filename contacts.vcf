@@ -1,0 +1,60 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Aparajita  Sodhi
+N: Sodhi;Aparajita;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Aparajita@email.com
+TEL;TYPE=CELL:4678789578.0
+item1.ORG:Mangat Ltd
+item1.X-ABLabel:work
+item2.TITLE:Web Designer
+item2.X-ABLabel:work
+NOTE:Lorem ipsum dolor sit amet, consectetur adipis
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sneha Pradhan
+N:Pradhan;Sneha;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Sneha@email.com
+TEL;TYPE=CELL:5748360184.0
+item1.ORG:GHJD
+item1.X-ABLabel:work
+item2.TITLE:Dog Trainer
+item2.X-ABLabel:work
+NOTE:perdiet justo a, commodo orci. Nulla facilis volutpat
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Tara Bahl
+N:Bahl;Tara;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Tara@email.com
+TEL;TYPE=CELL:9938176346.0
+item1.ORG:ISRO
+item1.X-ABLabel:work
+item2.TITLE:President of Sales
+item2.X-ABLabel:work
+NOTE:Lorem ipsum dolor sit amet, consectetur adipisci
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lina Khanna
+N:Khanna;Lina;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Lina@email.com
+TEL;TYPE=CELL:5837109483.0
+item1.ORG:Rareka
+item1.X-ABLabel:work
+item2.TITLE:Nursing Assistant
+item2.X-ABLabel:work
+NOTE:rttitor sollicitudin, velit ante vulputate sem, non elem
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Lal Kumar
+N:Kumar;Lal;;;
+EMAIL;TYPE=INTERNET;TYPE=HOME:Lal@email.com
+TEL;TYPE=CELL:8289491047.0
+item1.ORG:Bhardwaj corp
+item1.X-ABLabel:work
+item2.TITLE:Project Manager
+item2.X-ABLabel:work
+NOTE:sget Aliquam sed lectus id nunc elementum efficit
+END:VCARD
